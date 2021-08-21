@@ -1,2 +1,2 @@
 # Cypher_Converter
- Converts Plain text to Cypher Text
+ Simple project that converts Plain text to Cypher Text
