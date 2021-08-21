@@ -20,7 +20,7 @@ namespace Cypher_Project
     {
         char[] alphabet ="ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
 
-        int shiftNumber = 0;
+        int shiftNumber = 13;
 
         static void Main(string[] args)
         {
